@@ -5,3 +5,6 @@ approaching mars.
 descending into mars orbit.
 landing on mars.
 setting base camp for research
+
+
+tricia adding to file
